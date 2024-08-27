@@ -14,7 +14,7 @@ This is a basic mobile application built using React Native and Expo that allows
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/your-username/AsterideHomeUnlockApp.git
+    git clone https://github.com/prabhat120999/AsterideHomeUnlockApp.git
     cd AsterideHomeUnlockApp
     ```
 
