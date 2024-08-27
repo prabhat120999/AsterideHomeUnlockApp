@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "address": "123 Elm Street",
+    "image": "../assets/home1.jpg",
+    "description": "A beautiful 3-bedroom house with a spacious garden.",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": 2,
+    "address": "456 Oak Avenue",
+    "image": "../assets/home2.jpg",
+    "description": "Modern 2-bedroom apartment in the heart of the city.",
+    "latitude": 37.78825,
+    "longitude": -122.4324
+  },
+  {
+    "id": 3,
+    "address": "789 Pine Drive",
+    "image": "../assets/home3.jpg",
+    "description": "Cozy 4-bedroom house with a pool and large patio.",
+    "latitude": 37.7599,
+    "longitude": -122.4148
+  },
+  {
+    "id": 4,
+    "address": "101 Maple Road",
+    "image": "../assets/home4.jpg",
+    "description": "Charming 5-bedroom family home with a play area.",
+    "latitude": 37.7680,
+    "longitude": -122.4414
+  },
+  {
+    "id": 5,
+    "address": "202 Birch Lane",
+    "image": "../assets/home5.jpg",
+    "description": "Spacious 4-bedroom house with a modern kitchen.",
+    "latitude": 37.7742,
+    "longitude": -122.4181
+  },
+  {
+    "id": 6,
+    "address": "303 Cedar Street",
+    "image": "../assets/home6.jpg",
+    "description": "Elegant 3-bedroom apartment with a sea view.",
+    "latitude": 37.8044,
+    "longitude": -122.2708
+  },
+  {
+    "id": 7,
+    "address": "404 Walnut Boulevard",
+    "image": "../assets/home7.jpg",
+    "description": "Luxurious 5-bedroom villa with private beach access.",
+    "latitude": 37.7338,
+    "longitude": -122.4468
+  },
+  {
+    "id": 8,
+    "address": "505 Chestnut Terrace",
+    "image": "../assets/home8.jpg",
+    "description": "Modern 2-bedroom condo with rooftop garden.",
+    "latitude": 37.7767,
+    "longitude": -122.4175
+  },
+  {
+    "id": 9,
+    "address": "15 Sector 18, Noida",
+    "image": "../assets/home9.jpg",
+    "description": "Elegant 3-bedroom apartment close to shopping malls.",
+    "latitude": 28.5672,
+    "longitude": 77.3245
+  },
+  {
+    "id": 10,
+    "address": "10 Golf Course Road, Gurgaon",
+    "image": "../assets/home10.jpg",
+    "description": "Luxurious 4-bedroom penthouse with a golf course view.",
+    "latitude": 28.4744,
+    "longitude": 77.1031
+  },
+  {
+    "id": 11,
+    "address": "20 MG Road, Delhi",
+    "image": "../assets/home11.jpg",
+    "description": "Charming 2-bedroom apartment in the heart of Delhi.",
+    "latitude": 28.5255,
+    "longitude": 77.2103
+  },
+  {
+    "id": 12,
+    "address": "5 Sector 44, Noida",
+    "image": "../assets/home12.jpg",
+    "description": "Spacious 3-bedroom flat with a modern kitchen.",
+    "latitude": 28.5646,
+    "longitude": 77.3486
+  },
+  {
+    "id": 13,
+    "address": "Sector 18, Noida",
+    "image": "../assets/home9.jpg",
+    "description": "A cozy 1-bedroom apartment near the metro station.",
+    "latitude": 28.5356,
+    "longitude": 77.3910
+},
+{
+    "id": 14,
+    "address": "DLF Mall, Noida",
+    "image": "../assets/home10.jpg",
+    "description": "Spacious 3-bedroom apartment with a beautiful view.",
+    "latitude": 28.5354,
+    "longitude": 77.3912
+},
+{
+    "id": 15,
+    "address": "Great India Place, Noida",
+    "image": "../assets/home11.jpg",
+    "description": "Luxury 4-bedroom house with a private garden.",
+    "latitude": 28.5355,
+    "longitude": 77.3911
+}
+]
